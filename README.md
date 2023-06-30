@@ -19,6 +19,7 @@ Este repositorio contiene los notebooks de seguimiento del curso de redes neuron
 - [Mi primera red](/notebooks/Mi%20primera%20red.ipynb) Contiene una red neuronal convolucional básica utilizando el dataset fashion_mnist de keras.
 - [Manejo de images](/notebooks/Manejo%20de%20images.ipynb) Contiene algunas funciones para el manejo de imágenes con python.
 - [Aplicación de Kernel](/notebooks/Aplicación%20de%20Kernel.ipynb) Contiene una aplicación de un kernel a una imagen.
+- [Data augmentation con Keras](/notebooks/Data%20augmentation%20con%20Keras.ipynb) Contiene un ejemplo de data augmentation con keras.
 
 
 ## Licencia
